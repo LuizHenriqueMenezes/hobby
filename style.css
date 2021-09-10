@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500;700&family=Permanent+Marker&display=swap');
+h1{
+    text-align: center;
+    text-shadow: 5px 5px 5px 5px rgb(47, 45, 48);
+    font-family: 'Permanent Marker', cursive;
+}
+
+p{
+    font-family: 'Kaisei HarunoUmi', serif;
+}
+
+div{
+    border: 2px solid black;
+    padding: 5px;
+    background-color:whitesmoke;
+}
+
+#primeira{
+    background-image: url(gramado.jpeg);
+    background-size: cover;
+}
+
+#spfc{
+    background-image: linear-gradient(to bottom, red 33%, white 34%, black 33%);
+}
+
+#timao{
+    background-image: url(corinthians.jpeg);
+    background-size: cover;
+}
+
+#sep{
+    background-color: green;
+}
